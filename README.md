@@ -1,6 +1,6 @@
 # Projetos Excel
 
-### Este repositório contem arquivos de projetos e estudos realizados utilizando o excel como ferramenta principal.
+### Este repositório contem arquivos de projetos e estudos realizados utilizando o Excel como ferramenta principal.
 
 <ol>
 
